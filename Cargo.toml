@@ -1,0 +1,10 @@
+[package]
+name = "pulseaudio-next-sink"
+version = "0.1.0"
+authors = ["bjornua <bjorn.arnholtz@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "pulseaudio-next-sink"
+path = "main.rs"

@@ -1,0 +1,4 @@
+[root]
+name = "pulseaudio-next-sink"
+version = "0.1.0"
+
