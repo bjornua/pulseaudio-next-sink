@@ -2,7 +2,9 @@
 name = "pulseaudio-next-sink"
 version = "0.1.0"
 authors = ["bjornua <bjorn.arnholtz@gmail.com>"]
-
+description = "Pulseaudio tool that selects the next available default sink and moves any current sink-inputs to that sink"
+repository = "https://github.com/bjornua/transcode"
+license="BSD3"
 [dependencies]
 
 [[bin]]
